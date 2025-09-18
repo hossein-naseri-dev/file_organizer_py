@@ -26,4 +26,4 @@ A Python script for automatically organizing files in a directory based on their
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/hossein-naseri-dev/file_organizer_py.git
+git clone https://gitlab.com/hossein-naseri-dev/file_organizer_py.git
