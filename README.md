@@ -62,39 +62,40 @@ python file_organizer.py --last_modify_date --path ~/Pictures
 
 ## 📋 Command Options
 ### Option	Description	Default:
-#### -e, --extension	Organize by file extension	False
-#### -s, --size	Organize by file size	False
-#### -l, --last_modify_date	Organize by modification date	False
-#### -d, --erase_duplicates	Remove duplicate files	False
-#### -p, --path	Target directory path	Current directory
+- -e, --extension	Organize by file extension	False
+- -s, --size	Organize by file size	False
+- -l, --last_modify_date	Organize by modification date	False
+- -d, --erase_duplicates	Remove duplicate files	False
+- -p, --path	Target directory path	Current directory
 
 
 
 ## 🛡️ Safety Features
-#### Automatic backup recommendations
-#### Never modifies system files or script itself
-#### Comprehensive error recovery
-#### Detailed operation logging in file_organizer.log
-#### Pre-operation checks and validations
+- **Automatic backup recommendations**
+- **Never modifies system files or script itself**
+- **Comprehensive error recovery**
+- **Detailed operation logging in file_organizer.log**
+- **Pre-operation checks and validations**
 
 
 ## 📝 License
-#### This project is licensed under the MIT License - see the LICENSE file for details.
+- **This project is licensed under the MIT License - see the LICENSE file for details.**
 
 
 ## ⚠️ Troubleshooting
 ### Common issues and solutions:
-#### 1) Permission Errors: Ensure you have proper read/write permissions for the target directory
-#### 2) Missing Dependencies: Install required packages with pip install khayyam if using Persian calendar features
-#### 3) Unicode Errors: Check system locale settings for UTF-8 support
-#### 4) File in Use: Close any applications that might be using files you're trying to organize
-#### 5) For detailed error information, check the file_organizer.log file.
+- **1) Permission Errors: Ensure you have proper read/write permissions for the target directory**
+- **2) Missing Dependencies: Install required packages with pip install khayyam if using Persian calendar features**
+- **3) Unicode Errors: Check system locale settings for UTF-8 support**
+- **4) File in Use: Close any applications that might be using files you're trying to organize**
+- **5) For detailed error information, check the file_organizer.log file.**
 
 
 ## 🙏 Acknowledgments
-#### Thanks to the Python community for excellent libraries and tools
-#### Special thanks to the khayyam library maintainers for Persian calendar support
-#### Inspired by the need for better digital file management solutions
+- **Thanks to the Python community for excellent libraries and tools**
+- **Special thanks to the khayyam library maintainers for Persian calendar support**
+- **Inspired by the need for better digital file management solutions**
 
-### Contact me: dev.h.naseri@gmail.com
+## Contact Me:
+- **Email: dev.h.naseri@gmail.com**
 ### ⭐ If you find this project useful, please give it a star on GitHub!
