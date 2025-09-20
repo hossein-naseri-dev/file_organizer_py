@@ -20,7 +20,7 @@ A powerful Python script for automatic file organization with multiple sorting c
 
 ```bash
 # Clone repository
-git clone https://github.com/hossein-naseri-dev/file_organizer_py.git
+git clone https://gitlab.com/hossein-naseri-dev/file_organizer_py.git
 cd file_organizer_py
 
 # Optional: Install Persian calendar support
